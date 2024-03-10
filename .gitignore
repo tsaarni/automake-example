@@ -1,0 +1,14 @@
+Makefile
+Makefile.in
+config.h
+config.h.in
+configure
+autom4te.cache/
+*.o
+*.lo
+*.la
+*.gch
+.deps
+.libs
+*.log
+*.status
