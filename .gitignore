@@ -12,3 +12,9 @@ autom4te.cache/
 .libs
 *.log
 *.status
+.cache/
+compile_commands.json
+*~
+stamp-h1
+src/hello
+aclocal.m4

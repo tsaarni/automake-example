@@ -1,0 +1,24 @@
+# Finnish translations for hello package
+# Suomenkielinen käännös hello-paketille.
+# Copyright (C) 2024 THE hello'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the hello package.
+# Tero Saarni <tero.saarni@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hello 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-10 20:03+0200\n"
+"PO-Revision-Date: 2024-03-10 16:52+0200\n"
+"Last-Translator: Tero Saarni <tero.saarni@gmail.com>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TRANSLATORS: This is a comment for translators
+#: ../src/main.c:14
+msgid "Hello, World!\n"
+msgstr "Terve, Maailma!\n"
