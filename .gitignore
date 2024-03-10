@@ -12,3 +12,8 @@ autom4te.cache/
 .libs
 *.log
 *.status
+*~
+.cache
+stamp-h1
+compile_commands.json
+src/hello
